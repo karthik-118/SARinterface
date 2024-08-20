@@ -4,7 +4,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 public class SARfrontend extends JFrame {
-
+    int a=0;
     private JComboBox<String> designationComboBox;
     private JTextField authorizedIDField;
     private JPasswordField passwordField;
